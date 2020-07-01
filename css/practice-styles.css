@@ -1,0 +1,30 @@
+body {
+    background: steelblue;
+    font-family: Tahoma, Arial, sans-serif;
+}
+
+h1 {
+    color: whitesmoke;
+    font: 32px Garamond, Helvetica, serif;
+}
+
+h2{
+    color: rgb(247, 240, 240);
+}
+table {
+    width: 50%;
+    border:whitesmoke solid 3px;
+}
+
+thead {
+    text-align: left;
+}
+
+label {
+    display: block;
+}
+
+#submit-btn {
+    display: block;
+}
+
