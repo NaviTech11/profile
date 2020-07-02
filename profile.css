@@ -1,0 +1,70 @@
+body {
+    margin: 0;
+    background: #d6e6f2;
+}  
+
+body p {
+    color: #112d4e;
+}
+
+nav {
+    padding: 10px;
+    background-color: #112d4e;
+}
+
+
+
+hr {
+    background-color:  ##d6e6f2 ;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #f9f7f7;
+    border-width: 7.5px;
+    width: 7.5%;
+}
+
+.t-one {
+    background-color: white;
+}
+
+#profile-pic {
+    border: solid 3.5px white;
+    border-radius: 100px 100px 100px 100px;
+}
+
+
+
+h1 {
+    color: #112d4e; 
+}
+
+h2 {
+
+
+    color: #112d4e;
+    border: ; 
+}
+
+ul {
+    list-style: none;
+    color: rgb(44, 91, 128);
+}
+
+table {
+
+color: rgb(44, 91, 128);
+
+}
+
+
+
+.btn {
+    background-color: rgb(169, 209, 241);
+    border-radius: 10px;
+    border: none;
+}
+
+.mexico-pic {
+    border-radius: 100px;
+}
+
